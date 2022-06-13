@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-⚡<code>Coding nest js </code>&nbsp;&nbsp;&nbsp;&nbsp;✨✨<code> Ctrl + R </code>✨✨
+⚡<code>.tsx</code>&nbsp;&nbsp;&nbsp;&nbsp;✨✨<code> Ctrl + R </code>✨✨
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
